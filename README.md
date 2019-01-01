@@ -1,0 +1,2 @@
+# entrepact
+Entrepreneurial  Organization Automation
